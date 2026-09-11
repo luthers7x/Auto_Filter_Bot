@@ -1,5 +1,5 @@
 class script(object):
-    START_TXT = """<b><u>🚩 ᴊᴀɪ ꜱʜʀɪ ʀᴀᴍ 🚩</u></b>
+    START_TXT = """<b><u> hey! </u></b>
 
 <b>ʜᴇʏ {}, {}</b>
 
@@ -7,7 +7,7 @@ class script(object):
 """
 
 
-    GSTART_TXT = """<b>🚩 ᴊᴀɪ ꜱʜʀɪ ʀᴀᴍ 🚩</b>
+    GSTART_TXT = """<b> hey! </b>
 
 <b>ʜᴇʏ {},</b>
 
@@ -36,7 +36,7 @@ class script(object):
 
     ABOUT_TXT = """<b>╭────[ ᴍʏ ᴅᴇᴛᴀɪʟs ]────⍟
 ├⍟ Mʏ Nᴀᴍᴇ : <a href=https://t.me/{}>{}</a>
-├⍟ Dᴇᴠᴇʟᴏᴘᴇʀ : <a href={}>ᴏᴡɴᴇʀ</a> 
+├⍟ Dᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/cvpredvd>ᴏᴡɴᴇʀ</a> 
 ├⍟ Lɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a>
 ├⍟ Lᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 𝟹</a> 
 ├⍟ Dᴀᴛᴀʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
